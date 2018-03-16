@@ -124,6 +124,12 @@ http://blog.csdn.net/column/details/16213.html
 http://blog.csdn.net/firecoder/article/details/7225654
 ```
 
+###### 13、JVM详解系列
+
+```http
+http://www.cnblogs.com/redcreen/tag/jvm/
+```
+
 #### 三、WEB
 
 ###### 1、WEB性能优化
