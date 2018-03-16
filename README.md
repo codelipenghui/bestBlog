@@ -118,6 +118,12 @@ http://blog.csdn.net/column/details/14112.html
 http://blog.csdn.net/column/details/16213.html
 ```
 
+###### 12、JVM调优手记
+
+```http
+http://blog.csdn.net/firecoder/article/details/7225654
+```
+
 #### 三、WEB
 
 ###### 1、WEB性能优化
