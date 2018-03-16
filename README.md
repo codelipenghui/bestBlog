@@ -194,6 +194,18 @@ http://blog.csdn.net/column/details/elasticsearch-action.html
 http://blog.csdn.net/column/details/thrift.html
 ```
 
+###### 3、Dubbo用户手册
+
+```http
+http://dubbo.io/books/dubbo-user-book/
+```
+
+###### 4、Dubbo开发手册
+
+```http
+http://dubbo.io/books/dubbo-dev-book/
+```
+
 #### 八、缓存
 
 ###### 1、分布式缓存-redis
